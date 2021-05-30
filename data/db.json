@@ -1,0 +1,36 @@
+{
+    "currencies":[
+       {
+          "label":"Euro",
+          "value":"EUR"
+       },
+       {
+          "label":"United States Dollar",
+          "value":"USD"
+       },
+       {
+          "label":"Australian Dollar",
+          "value":"AUD"
+       },
+       {
+          "label":"Canadian Dollar",
+          "value":"CAD"
+       },
+       {
+          "label":"Japanese Yen",
+          "value":"JPY"
+       },
+       {
+          "label":"Switzerland Franc",
+          "value":"CHF"
+       },
+       {
+          "label":"Mexican peso",
+          "value":"MXN"
+       },
+       {
+          "label":"Great British Pound",
+          "value":"GBP"
+       }
+    ]
+ }
