@@ -1,3 +1,15 @@
+
+# Running application
+To get required dependencies and starting react app
+ - npm install
+ - npm run start:dev
+ 
+ # Tools
+* Javascript
+* HTML
+* CSS, BootStrap
+* React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
